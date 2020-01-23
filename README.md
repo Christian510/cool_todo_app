@@ -11,6 +11,7 @@ This project is my first effort at building an ior app with React Native.  Some 
 - [x] Create add todo input and button
 - [x] connect delete button
 - [ ] create flat list component that stores completed todo items.
+    * [example](https://codepen.io/ladyjellington/pen/gNbdZd?editors=0011)
 - [x] Add color palette.
 - [x] Add Footer with logo icons.
 - [x] toggle star on and off.
