@@ -1,5 +1,5 @@
 *** My First Phone App ***
-This project is my first effort at building an ior app with React Native.  Some goals I set for myself.
+*** This project is my first effort at building an ior app with React Native.  Some goals I set for myself. *** 
 1. Learn to build a phone app.
 2. Teach myself how to set up my dev environment and create an app without the help of paid tutorials. (I did watch some videos to help with small aspects of the project).
 3. Transfer my knowledge of React to React-Native.  Sruggle through the process of figuring out issues without the help of cookie cutter tutorials.
