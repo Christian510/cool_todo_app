@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "text": "Grapes",
+        "completed": false,
+        "isHighlighted": false
+    },
+    {
+        "id": 2,
+        "text": "Bannanas",
+        "completed": false,
+        "isHighlighted": true
+    },
+    {
+        "id": 3,
+        "text": "steak",
+        "completed": false,
+        "isHighlighted": false
+    },
+    {
+        "id": 4,
+        "text": "beer",
+        "completed": false,
+        "isHighlighted": false
+    }
+]
