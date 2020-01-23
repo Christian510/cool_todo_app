@@ -8,6 +8,7 @@ This project is my first effort at building an ior app with React Native.  Some 
 ## Planning Notes:
 
 - [x] Add a header with a Sandwhich icon, title
+- [x] Create add todo input and button
 - [x] connect delete button
 - [ ] create flat list component that stores completed todo items.
 - [x] Add color palette.
